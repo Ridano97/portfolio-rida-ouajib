@@ -824,7 +824,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
   border-radius: 10px; }
   .testimonial-v1 img {
     width: 80px !important;
-    border-radius: 50%;
+    border-radius: 15%;
     margin: 0 auto 20px auto;
     margin-top: -70px; }
   .testimonial-v1 h3 {
